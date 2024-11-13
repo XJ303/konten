@@ -1,0 +1,6 @@
+PERINGATAN 
+1. untuk template sekali pakai itu yang di ganti hanya link daftar dan link login
+yang diganti menggunakan domain lain, agar bisa membantu index atau rank di google
+2. dan yang versi img bing itu, images yang digunakan dari bing,
+
+NB : PASTIKAN SEMUA LINK LOGIN TERGANTI KE ARAH DOMAIN YANG MAU DI TUJU
