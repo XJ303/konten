@@ -20,6 +20,8 @@
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
     <link rel="canonical" href="https://sloveniaecoresort.com/" />
     <link rel="amphtml" href="https://anesong.web.app/bbfstoto/" />
+
+    <meta name="google-site-verification" content="IQUS4U2bD4Lid0xODinZYrSanRQo2UlgtfrZUdSFQxY" />
     <!-- start preload -->
     <link rel="preload" href="https://hosting.tigerengine.id/b0vckn.jpg" as="image" />
     <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
